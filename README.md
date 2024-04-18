@@ -1,4 +1,4 @@
-# pypvc
+# pypvc (this project is discontinued)
 Most ridiculous lossless compression file format. Powered by Python.
 
 The Python polynomial video codec (**PYPVC**) is created to compress video files into the smallest currently possible size in a realistic amount of time. Each channel, RGBa, is separated. And for that, each frame is separated. 
